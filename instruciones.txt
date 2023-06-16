@@ -1,0 +1,3 @@
+(a) si quieres desplegar tu propio servidor copia el repositorio en al gun servicio de despliegue
+(b) ejecuta el servidor con "node index"
+(c) copia la url y modificalas en el CLI en python
